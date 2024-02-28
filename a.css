@@ -113,7 +113,7 @@ body{
 }
 /* /home page */
 #hero{
-    background-image: url("/thum/soo2.jpeg");
+    background-image: url("./thum/soo2.jpeg");
     height: 90vh;
     width: 100%;
     background-size: cover;
