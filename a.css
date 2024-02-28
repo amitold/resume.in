@@ -213,7 +213,7 @@ text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/slide/soo3.jpeg);
+    background-image: url(./thum/soo3.jpeg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -245,7 +245,7 @@ text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/slide/soo1.jpeg);
+    background-image: url(./thum/soo1.jpeg);
     min-width: 520px; 
     height: 50vh;
     background-size: cover;
@@ -253,7 +253,7 @@ text-align: center;
     padding: 30px;
 }
 #sm-banner .banner-box2{
-    background-image: url(/slide/soo4.jpeg);
+    background-image: url(./thum/soo4.jpeg);
 }
 #sm-banner h4{
     color: aliceblue;
@@ -287,7 +287,7 @@ text-align: center;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/sofas/sofa1.jpg);
+    background-image: url(./thum/sofa1.jpg);
     min-width: 30%; 
     height: 30vh;
     background-size: cover;
@@ -296,10 +296,10 @@ text-align: center;
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(/sofas/sofa2.jfif);
+    background-image: url(./thum/sofa2.jfif);
 }
 #banner3 .banner-box3{
-    background-image: url(/sofas/sofa3.jpg);
+    background-image: url(./thum/sofa3.jpg);
 }
 #banner3 h2{
     color: aliceblue;
@@ -317,7 +317,7 @@ text-align: center;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(/img/back1.jpg);
+    background-image: url(./thum/back1.jpg);
     background-repeat: no-repeat;
     background-position: 80% 60%;
     background-color: black;
